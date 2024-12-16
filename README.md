@@ -3,7 +3,7 @@ XAI Plugin - Original Source by mysis [https://www.psx-place.com/threads/custom-
 
 You can check and download the latest xai_plugin update package
 
-Updater package version: 1.2
+Updater package version: 1.5
 
 - Updated Cobra version to 8.4
 - Use PS2 FAN Modes on PS2 Classic games
